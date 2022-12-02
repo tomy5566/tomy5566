@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MH.
-- 👀 I’m a beginner in front end web development .
-- 🌱 I’m currently learning HTML, CSS, javascript.
+- 👀 I’m currently learning HTML, CSS, javascript.
+- 🌱 I’m on my way to being a front end web development .
 - ✨ 以下是我目前的練習作品集，歡迎參觀.
 
 
