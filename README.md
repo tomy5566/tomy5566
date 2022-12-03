@@ -4,7 +4,8 @@
 - 💞️ The following is my learning portfolios , welcome to visit.
 - ✨ 以下是我目前的練習作品集，歡迎參觀. :)
 
-
+Tech Stack
+globe_with_meridians   HTML5 CSS JavaScript Bootstrap 
 
 
 <!---
