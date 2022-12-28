@@ -2,7 +2,7 @@
 - 👀 I’m currently learning HTML, CSS, javascript.
 - 🌱 I’m on my way to being a front end web development .
 - 💞️ The following is my learning portfolios , welcome to visit.
-- ✨ Repository 內是我目前的練習作品集，歡迎參觀. :)
+- ✨ [Repository](https://github.com/tomy5566?tab=repositories) 內是我目前的練習作品集，歡迎參觀. :)
 
 My Tech Stack
 
